@@ -1,0 +1,4 @@
+repository "runnerGame@kokostyrko@cloud"
+  path "/"
+    br "/main"
+    co "/main"
